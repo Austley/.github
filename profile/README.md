@@ -11,6 +11,9 @@ We also build free tools for MarComm folks, in public, right here.
 **[Crisis Comms War Room](https://github.com/Austley/crisis-comms-war-room)**  
 A free crisis communications war room for comms pros. Enter your incident, get an executive-ready advisory.
 
+**[AI Role Mapper](https://github.com/Austley/ai-role-mapper)**
+Paste in a marketing or comms job description. See what AI can largely handle, where it assists, and where a human is required. Built from 75 real job descriptions.
+
 More on the way. Star or follow to catch new releases.
 
 ## Why free?
